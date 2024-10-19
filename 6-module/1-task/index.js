@@ -13,7 +13,6 @@
  *
  */
 export default class UserTable {
-  constructor(rows) {
     this.elem = this.createTable(rows);
   }
 
